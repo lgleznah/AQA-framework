@@ -1,0 +1,2 @@
+# AQA-framework
+This repository includes the code used for training the models used in the scientific articles *"Novel groundtruth transformations for the aesthetic assessment problem"* and *"Ranking-based scores for the assessment of aesthetic quality in photography"*, co-authored by Luis Gonzalez-Naharro and Fernando Rubio respectively, who have also written the majority of the code in this repository.
